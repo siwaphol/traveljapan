@@ -22,6 +22,7 @@ class PlanController extends Controller
             $prov = Province::where('region_id',$reg->id)->orderBy('name')->get();
             array_push($provinces, $prov);
         }
+        
 
         return view('plan', compact('regions','provinces'));
     }
