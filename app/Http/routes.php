@@ -12,5 +12,12 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('template');
+});
+
+Route::get('/plan', 'PlanController@index');
+Route::get('/plan/{provinceId}', 'PlanController@showFromID');
+
+Route::get('/contact', function () {
+    return view('template');
 });
