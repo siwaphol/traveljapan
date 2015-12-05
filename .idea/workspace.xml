@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fc36f4c-8128-4526-a26c-f880098a3de1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/PlanController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/PlanController.php" />
-    </list>
+    <list default="true" id="1fc36f4c-8128-4526-a26c-f880098a3de1" name="Default" comment="" />
     <ignored path="traveljapan.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
